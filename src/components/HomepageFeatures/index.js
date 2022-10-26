@@ -2,43 +2,42 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
+
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Deploy in the Cloud',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Vous allez déployer votre site vitrine sur un VPS (Virtual Private Server) hébergé chez
+        &nbsp;<a href='https://www.scaleway.com'>Scaleway</a>
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Secure your Site',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Vous saurez comment sécuriser notre site en HTTPS!
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Automate your deployment',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Mises à jours du site, revenir en arrière, automatiser le déploiment... Avec zéro downtime!!! Hum Hum...
       </>
     ),
   },
   {
-    title: 'Powered by Nico',
+    title: 'Containerize it!',
     Svg: require('@site/static/img/nico1.svg').default,
     description: (
       <>
-        This is cool!!!
+        Trop cool! Avec un peu d'astuce et de documentation, vous pourrez utiliser Docker pour déployer automatiquer vos versions
       </>
     ),
   },

@@ -9,12 +9,12 @@ Alors go for it now -> Deploy your site!!!
 
 ## Itération 1
 
-Déploiement "from scratch" sur un VPS (Virtual Private Server) **[scaleway](https://scaleway.io)**.
+Déploiement "from scratch" sur un VPS (Virtual Private Server) **[scaleway](https://scaleway.com)**.
 ![sdasddas](https://www.scaleway.com/static/6a3ff135bd90b05124981ec237081fed/b0190/hero-floating-boy-frame.webp)
 
 ### What you'll need
 
-- [Demander un accès au Campus Numerique Scaleway](htttps://scaleway.io)
+- [Demander un accès au Campus Numerique Scaleway](htttps://scaleway.com)
 - Créer un VPS depuis une image UNBUTU
 
 
