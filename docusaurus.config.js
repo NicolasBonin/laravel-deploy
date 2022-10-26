@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Allez!!! On met en PROD!',
   tagline: 'déploiement d\'un site Laravel en production',
-  url: 'https://nicolasbonin.github.io/laravel-deploy',
-  baseUrl: '/',
+  url: 'https://nicolasbonin.github.io',
+  baseUrl: '/deploy-laravel-site/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
