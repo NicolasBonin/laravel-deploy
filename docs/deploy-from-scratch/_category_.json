@@ -1,8 +1,0 @@
-{
-  "label": "Deploy From Scratch",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "Dans cette itération vous réaliserez toutes les étapes du déploiement de votre application Laravel manuellement."
-  }
-}
