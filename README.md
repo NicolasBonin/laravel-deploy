@@ -1,5 +1,5 @@
 # Website
-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
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
