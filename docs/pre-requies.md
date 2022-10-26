@@ -5,4 +5,7 @@ sidebar_position: 2
 
 # Pré-Requis
 
-Un poste de travail avec Linux
+- Un poste de travail avec Linux
+- Un accès Scaleway (donné par le formateur)
+- Connaissance des commandes de base Linux
+- La documentation de Laravel
