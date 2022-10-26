@@ -9,15 +9,15 @@ const config = {
   title: 'Allez!!! On met en PROD!',
   tagline: 'déploiement d\'un site Laravel en production',
   url: 'https://nicolasbonin.github.io',
-  baseUrl: '/deploy-laravel-site/',
+  baseUrl: '/laravel-deploy/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Campus Numérique', // Usually your GitHub org/user name.
-  projectName: 'deployment', // Usually your repo name.
+  organizationName: 'NicolasBonin', // Usually your GitHub org/user name.
+  projectName: 'laravel-deploy', // Usually your repo name.
   trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -38,14 +38,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/nicolasbonin/laravel-deploy/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/nicolasbonin/laravel-deploy/docs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/nicolasbonin/laravel-deploy/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/nicolasbonin/laravel-deploy/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
