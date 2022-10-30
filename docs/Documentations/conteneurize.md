@@ -8,3 +8,10 @@ sidebar_position: 7
 
 - Conteneuriser votre application
 - [Exemple avec Docker](https://medium.com/geekculture/the-easiest-way-to-dockerize-your-laravel-application-94977fe2ed6d)
+
+:::tip
+
+Pour aller plus loin, vous pouvez essayer d'utiliser le reverse-proxy [traefik](https://doc.traefik.io/traefik/)
+et [cloudflare](https://www.cloudflare.com/fr-fr/) pour une meilleure protection de votre site.
+
+:::

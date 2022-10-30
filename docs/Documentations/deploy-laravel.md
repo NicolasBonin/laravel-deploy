@@ -12,6 +12,8 @@ Maintenant que votre VPS est configuré pour PHP, vous pouvez déployer votre si
 
 :::tip
 
+Bien utiliser la dernière version de Laravel et la documentation correspondante
+
 Pensez à [optimiser votre site pour la production](https://laravel.com/docs/9.x/deployment)
 
 :::
