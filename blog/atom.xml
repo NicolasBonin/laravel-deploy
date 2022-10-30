@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nicolasbonin.github.io/laravel-deploy/blog</id>
     <title>Allez!!! On met en PROD! Blog</title>
-    <updated>2021-08-01T00:00:00.000Z</updated>
+    <updated>2022-10-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nicolasbonin.github.io/laravel-deploy/blog"/>
     <subtitle>Allez!!! On met en PROD! Blog</subtitle>
     <icon>https://nicolasbonin.github.io/laravel-deploy/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://nicolasbonin.github.io/laravel-deploy/blog/welcome"/>
+        <updated>2022-10-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bienvenu sur ce blog!]]></summary>
+        <content type="html"><![CDATA[<p>Bienvenu sur ce blog!</p><p>Il y a été créé avec <a href="https://docusaurus.io/fr/" target="_blank" rel="noopener noreferrer">DOCUSAURUS</a>, un super outil pour générer un site vitrine de la documentation!!!</p><p>Vous pouvez même l'associer à un repo github pour générer votre documentation directement en ligne, yes!!!</p><p><a href="https://docusaurus.io/fr/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/fr/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>]]></content>
+        <author>
+            <name>Nicolas Bonin</name>
+            <uri>https://github.com/NicolasBonin</uri>
+        </author>
+        <category label="Campus" term="Campus"/>
+        <category label="welcome" term="welcome"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MDX Blog Post]]></title>
         <id>mdx-blog-post</id>

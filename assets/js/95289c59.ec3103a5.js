@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdeployment_site=self.webpackChunkdeployment_site||[]).push([[9521],{9037:e=>{e.exports=JSON.parse('{"label":"Campus","permalink":"/laravel-deploy/blog/tags/campus","allTagsPath":"/laravel-deploy/blog/tags","count":1}')}}]);

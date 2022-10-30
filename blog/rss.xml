@@ -4,10 +4,21 @@
         <title>Allez!!! On met en PROD! Blog</title>
         <link>https://nicolasbonin.github.io/laravel-deploy/blog</link>
         <description>Allez!!! On met en PROD! Blog</description>
-        <lastBuildDate>Sun, 01 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://nicolasbonin.github.io/laravel-deploy/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bienvenu sur ce blog!]]></description>
+            <content:encoded><![CDATA[<p>Bienvenu sur ce blog!</p><p>Il y a été créé avec <a href="https://docusaurus.io/fr/" target="_blank" rel="noopener noreferrer">DOCUSAURUS</a>, un super outil pour générer un site vitrine de la documentation!!!</p><p>Vous pouvez même l'associer à un repo github pour générer votre documentation directement en ligne, yes!!!</p><p><a href="https://docusaurus.io/fr/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/fr/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>]]></content:encoded>
+            <category>Campus</category>
+            <category>welcome</category>
+            <category>docusaurus</category>
+        </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
             <link>https://nicolasbonin.github.io/laravel-deploy/blog/mdx-blog-post</link>
