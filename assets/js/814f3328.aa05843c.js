@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdeployment_site=self.webpackChunkdeployment_site||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/laravel-deploy/blog/welcome"},{"title":"MDX Blog Post","permalink":"/laravel-deploy/blog/mdx-blog-post"}]}')}}]);
