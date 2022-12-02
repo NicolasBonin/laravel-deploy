@@ -15,4 +15,4 @@ Voir du côté des Workflows github et les github Actions
 
 - [Zéro downtime déploiement](https://warrickbayman.medium.com/zero-downtime-laravel-deployments-with-envoy-version-2-227c8259e31c)
 - [Automate Laravel deployement with Ansible](https://roelofjanelsinga.com/articles/automating-laravel-deployment-using-ansible)
-  
+- [Deployer](https://deployer.org/docs/7.x/recipe/laravel)
