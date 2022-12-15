@@ -6,6 +6,7 @@ sidebar_position: 6
 
 - Trouver une statégie pour automatiser les déploiements
 - [Exemple de CI/CD pipeline](https://medium.com/@michaelekpang/creating-a-ci-cd-pipeline-using-github-actions-b65bb248edfe)
+- [Autre Exemple avec Laravel](https://dev.to/kenean50/automate-your-laravel-app-deployment-with-github-actions-2g7j)
 
 :::tip
 
